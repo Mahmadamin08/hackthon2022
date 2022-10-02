@@ -1,0 +1,36 @@
+.footer {
+    padding: 20px;
+    margin: 0 auto;
+    background: #8d2de2ca;
+    background: linear-gradient(to right, #4b00e0e0, #8d2de2e0);
+    color: #fff;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+li {
+    list-style: none;
+}
+
+li a {
+    margin: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+
+footer p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+footer h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
